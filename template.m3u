@@ -1,0 +1,37 @@
+#EXTM3U
+
+#Kurdish
+#EXTINF:-1, Kurdistan 24
+http://kurdistan24.tv/live
+#EXTINF:-1, Rudaw
+http://rudaw.net/live
+#EXTINF:-1, NRT
+http://nrt.tv/live
+#EXTINF:-1, KNN
+http://knn.kurdish/live
+#EXTINF:-1, K24
+http://k24.tv/live
+
+#News
+#EXTINF:-1, BBC News
+http://bbc.co.uk/news/live
+#EXTINF:-1, CNN
+http://cnn.com/live
+#EXTINF:-1, Al Jazeera
+http://aljazeera.com/live
+#EXTINF:-1, Sky News
+http://skynews.com/live
+#EXTINF:-1, Fox News
+http://foxnews.com/live
+
+#Sports
+#EXTINF:-1, ESPN
+http://espn.com/live
+#EXTINF:-1, Fox Sports
+http://foxsports.com/live
+#EXTINF:-1, beIN Sports
+http://bein.com/live
+#EXTINF:-1, NBC Sports
+http://nbcsports.com/live
+#EXTINF:-1, DAZN
+http://dazn.com/live
