@@ -1,60 +1,51 @@
 #EXTM3U
 
-#Kurdish
-#EXTINF:-1, AVA Tv
+# Kurdistan
+#EXTINF:-1 tvg-id="AVA.Tv" tvg-name="AVA Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",AVA Tv
 https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:-1, Rudaw
+#EXTINF:-1 tvg-id="Rudaw" tvg-name="Rudaw" tvg-logo="https://www.rudaw.net/favicon.ico" group-title="Kurdistan",Rudaw
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1, WAAR
+#EXTINF:-1 tvg-id="WAAR" tvg-name="WAAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",WAAR
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
-#EXTINF:-1, Kurdistan 24
+#EXTINF:-1 tvg-id="Kurdistan.24" tvg-name="Kurdistan 24" tvg-logo="https://www.24.krd/favicon.ico" group-title="Kurdistan",Kurdistan 24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1, Channel 8
+#EXTINF:-1 tvg-id="Channel.8" tvg-name="Channel 8" tvg-logo="https://channel8.com/favicon.ico" group-title="Kurdistan",Channel 8
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
-#EXTINF:-1, Welat
+#EXTINF:-1 tvg-id="Welat" tvg-name="Welat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",Welat
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
-#EXTINF:-1, Kurdsat
+#EXTINF:-1 tvg-id="Kurdsat" tvg-name="Kurdsat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1, Kurdistan TV
+#EXTINF:-1 tvg-id="Kurdistan.TV" tvg-name="Kurdistan TV" tvg-logo="https://kurdistantv.net/favicon.ico" group-title="Kurdistan",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w427291259_b1700000_sleng_t64MTA4MHA=.m3u8
-#EXTINF:-1, Kirkuk
+#EXTINF:-1 tvg-id="Kirkuk" tvg-name="Kirkuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",Kirkuk
 https://live.kirkuklive.live/hls/stream/index.m3u8
-#EXTINF:-1, Payam
+#EXTINF:-1 tvg-id="Payam" tvg-name="Payam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",Payam
 https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
-#EXTINF:-1, Ala
+#EXTINF:-1 tvg-id="Ala" tvg-name="Ala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",Ala
 https://link.rashaba.com/proxy/ala.php?file=playlist.m3u8
-#EXTINF:-1, Parwardayi Duhok
-https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
-#EXTINF:-1, Parwarda
-https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8
-#EXTINF:-1, Parwardayi Hawler
-https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
-#EXTINF:-1, Avar
-https://avr.host247.net/live/AvarTv/playlist.m3u8
-#EXTINF:-1, NRT Sport
+#EXTINF:-1 tvg-id="NRT.Sport" tvg-name="NRT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",NRT Sport
 https://rashaba.com/proxy/nrt-sport.php?file=l_508812_256248640_42679.ts
 
-
-#News
-#EXTINF:-1, BBC News
+# News
+#EXTINF:-1 tvg-id="BBC.News" tvg-name="BBC News" tvg-logo="https://news.files.bbci.co.uk/include/brand/img/bbc_news_120x60.gif" group-title="News",BBC News
 http://bbc.co.uk/news/live
-#EXTINF:-1, CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Logo.svg/320px-CNN_Logo.svg.png" group-title="News",CNN
 http://cnn.com/live
-#EXTINF:-1, Al Jazeera
+#EXTINF:-1 tvg-id="Al.Jazeera" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Aljazeera_logo.svg/320px-Aljazeera_logo.svg.png" group-title="News",Al Jazeera
 http://aljazeera.com/live
-#EXTINF:-1, Sky News
+#EXTINF:-1 tvg-id="Sky.News" tvg-name="Sky News" tvg-logo="https://news.sky.com/resources/images/sky-news-logo.svg" group-title="News",Sky News
 http://skynews.com/live
-#EXTINF:-1, Fox News
+#EXTINF:-1 tvg-id="Fox.News" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/320px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
 http://foxnews.com/live
 
-#Sports
-#EXTINF:-1, ESPN
+# Sports
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
 http://espn.com/live
-#EXTINF:-1, Fox Sports
+#EXTINF:-1 tvg-id="Fox.Sports" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fox_Sports_logo.svg/320px-Fox_Sports_logo.svg.png" group-title="Sports",Fox Sports
 http://foxsports.com/live
-#EXTINF:-1, beIN Sports
+#EXTINF:-1 tvg-id="beIN.Sports" tvg-name="beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BeIN_Sports_logo.svg/320px-BeIN_Sports_logo.svg.png" group-title="Sports",beIN Sports
 http://bein.com/live
-#EXTINF:-1, NBC Sports
+#EXTINF:-1 tvg-id="NBC.Sports" tvg-name="NBC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/NBC_Sports_logo.svg/320px-NBC_Sports_logo.svg.png" group-title="Sports",NBC Sports
 http://nbcsports.com/live
-#EXTINF:-1, DAZN
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DAZN_logo.svg/320px-DAZN_logo.svg.png" group-title="Sports",DAZN
 http://dazn.com/live
