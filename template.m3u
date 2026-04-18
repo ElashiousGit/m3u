@@ -23,8 +23,8 @@ https://live.kirkuklive.live/hls/stream/index.m3u8
 https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
 #EXTINF:-1 tvg-id="Ala" tvg-name="Ala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",Ala
 https://link.rashaba.com/proxy/ala.php?file=playlist.m3u8
-#EXTINF:-1 tvg-id="Aryen" tvg-name="Aryen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",Aryen
-https://kurditv.com/1045/
+#EXTINF:-1 tvg-id="Rojhelat" tvg-name="Aryen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",Aryen
+https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
 
 # News
 #EXTINF:-1 tvg-id="BBC.News" tvg-name="BBC News" tvg-logo="https://news.files.bbci.co.uk/include/brand/img/bbc_news_120x60.gif" group-title="News",BBC News
