@@ -1,16 +1,39 @@
 #EXTM3U
 
 #Kurdish
-#EXTINF:-1, Kurdistan 24
-http://kurdistan24.tv/live
+#EXTINF:-1, AVA Tv
+https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:-1, Rudaw
-http://rudaw.net/live
-#EXTINF:-1, NRT
-http://nrt.tv/live
-#EXTINF:-1, KNN
-http://knn.kurdish/live
-#EXTINF:-1, K24
-http://k24.tv/live
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1, WAAR
+https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
+#EXTINF:-1, Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1, Channel 8
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:-1, Welat
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+#EXTINF:-1, Kurdsat
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1, Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w427291259_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1, Kirkuk
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1, Payam
+https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
+#EXTINF:-1, Ala
+https://link.rashaba.com/proxy/ala.php?file=playlist.m3u8
+#EXTINF:-1, BBC News
+http://bbc.co.uk/news/live
+#EXTINF:-1, CNN
+http://cnn.com/live
+#EXTINF:-1, Al Jazeera
+http://aljazeera.com/live
+#EXTINF:-1, Sky News
+http://skynews.com/live
+#EXTINF:-1, NRT Sport
+https://rashaba.com/proxy/nrt-sport.php?file=l_508812_256248640_42679.ts
+
 
 #News
 #EXTINF:-1, BBC News
