@@ -47,5 +47,5 @@ http://foxsports.com/live
 http://bein.com/live
 #EXTINF:-1 tvg-id="NBC.Sports" tvg-name="NBC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/NBC_Sports_logo.svg/320px-NBC_Sports_logo.svg.png" group-title="Sports",NBC Sports
 http://nbcsports.com/live
-#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DAZN_logo.svg/320px-DAZN_logo.svg.png" group-title="Sports",DAZN
-http://dazn.com/live
+#EXTINF:-1 tvg-id="Sky Sports Main Event 4k" tvg-name="Sky Sports Main Event 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DAZN_logo.svg/320px-DAZN_logo.svg.png" group-title="Sports",Sky Sports Main Event 4k
+http://extraott.com:80/live/6772191932/1654508883/153691.m3u8
