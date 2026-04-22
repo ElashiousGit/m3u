@@ -26,17 +26,17 @@ https://link.rashaba.com/proxy/ala.php?file=playlist.m3u8
 #EXTINF:-1 tvg-id="Rojhelat" tvg-name="Aryen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/No_image.svg/240px-No_image.svg.png" group-title="Kurdistan",Aryen
 https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
 
-# News
-#EXTINF:-1 tvg-id="BBC.News" tvg-name="BBC News" tvg-logo="https://news.files.bbci.co.uk/include/brand/img/bbc_news_120x60.gif" group-title="News",BBC News
-http://bbc.co.uk/news/live
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Logo.svg/320px-CNN_Logo.svg.png" group-title="News",CNN
-http://cnn.com/live
-#EXTINF:-1 tvg-id="Al.Jazeera" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Aljazeera_logo.svg/320px-Aljazeera_logo.svg.png" group-title="News",Al Jazeera
-http://aljazeera.com/live
-#EXTINF:-1 tvg-id="Sky.News" tvg-name="Sky News" tvg-logo="https://news.sky.com/resources/images/sky-news-logo.svg" group-title="News",Sky News
-http://skynews.com/live
-#EXTINF:-1 tvg-id="Fox.News" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/320px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
-http://foxnews.com/live
+#EXTINF:-1 tvg-id="Parwardayi Duhok" tvg-name="Parwardayi Duhok" tvg-logo="" group-title="Kurdistan",Parwardayi Duhok
+https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Kurdmax" tvg-name="Kurdmax" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="Kurdistan",Kurdmax
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/chunklist_w600589281.m3u8
+
+#EXTINF:-1 tvg-id="Kurdmax Show" tvg-name="Kurdmax Show" tvg-logo="https://i.postimg.cc/vQTV2y7W/show.png" group-title="Kurdistan",Kurdmax Show
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Denge Zelal" tvg-name="Denge Zelal" tvg-logo="https://r.resimlink.com/Tvf-DB3hOso8.png" group-title="Kurdistan",Denge Zelal
+https://dengetv.ozelip.com:3143/live/dengelive.m3u8
 
 # Sports
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
