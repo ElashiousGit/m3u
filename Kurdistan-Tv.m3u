@@ -244,6 +244,9 @@ https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 http://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT.m3u8
 # https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
 
+#EXTINF:-1,Ronahi
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+
 #EXTINF:-1,RT Arabic ᴴᴰ
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 
