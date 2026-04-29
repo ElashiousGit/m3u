@@ -93,6 +93,9 @@ https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
 #EXTINF:-1,DW TV ᴴᴰ
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
+#EXTINF:-1,Eman TV
+https://avr.host247.net/live/emantv/playlist.m3u8
+
 #EXTINF:-1,Esra tv
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 
@@ -263,6 +266,7 @@ https://live.rudaw.net/hls/rudaw-tv/stream_720p.m3u8
 
 #EXTINF:-1,Shams tv
 https://stream.shams.tv/hls/0/stream.m3u8
+# https://stream.shams.tv/hls/stream.m3u8
 
 #EXTINF:-1,SHAR ᴴᴰ
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
