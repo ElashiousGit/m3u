@@ -20,6 +20,7 @@ http://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1,ALA
 http://avrstream.com:1935/live/ala-hd/playlist.m3u8
+# https://link.rashaba.com/proxy/ala.php?file=playlist.m3u8
 
 #EXTINF:-1,Al Arabiya Hadath HD
 http://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
@@ -243,11 +244,12 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1,RT English ᴴᴰ
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
-#EXTINF:-1,Rudaw ᴴᴰ
-https://live.rudaw.net/hls/rudaw-tv/stream_720p.m3u8
-
 #EXTINF:-1,Rudaw fᴴᴰ
 https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
+# https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
+#EXTINF:-1,Rudaw ᴴᴰ
+https://live.rudaw.net/hls/rudaw-tv/stream_720p.m3u8
 
 #EXTINF:-1,Shams tv
 https://stream.shams.tv/hls/0/stream.m3u8
@@ -281,6 +283,9 @@ http://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmed
 
 #EXTINF:-1,Walla ᴴᴰ
 http://live20.bozztv.com/giatv/giatv-wallatv88/wallatv88/chunks.m3u8
+
+#EXTINF:-1,Welat ᴴᴰ
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
 
 #EXTINF:-1,ZAGROS TV
 
