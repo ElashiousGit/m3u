@@ -211,9 +211,6 @@ https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 #EXTINF:-1,NUCE ᴴᴰ
 http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
 
-#EXTINF:-1,Parwarda Hawler ᴴᴰ
-https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1,Parwardayi Duhok
 https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
 
@@ -221,10 +218,8 @@ https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
 https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1,Parwardayi Slemani
-https://live20.bozztv.com:443/giatv/giatv-parwardasuli/parwardasuli/chunks.m3u8
-
-#EXTINF:-1,Parwarda Slemani ᴴᴰ
 https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8
+#https://live20.bozztv.com:443/giatv/giatv-parwardasuli/parwardasuli/chunks.m3u8
 
 #EXTINF:-1,PAYAM TV
 https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
@@ -238,11 +233,9 @@ https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
 #EXTINF:-1,Rojava 
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 
-#EXTINF:-1,ROJHELAT
-https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
-
 #EXTINF:-1,Rojhalat ᴴᴰ
 http://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT.m3u8
+#https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
 
 #EXTINF:-1,RT Arabic ᴴᴰ
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
@@ -274,34 +267,13 @@ http://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 #EXTINF:-1,SPI TV
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
 
-#EXTINF:-1,SPEDA
-https://halabja88.short.gy/speda
-
 #EXTINF:-1,Soran Entertainment ᴴᴰ
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
-
-#EXTINF:-1,Srusht HD
-http://109.71.252.138/Sroshttv/video.m3u8?token=yusfstaore@asdasdfadaaafffs
 
 #EXTINF:-1,STERK TV
 https://zindi.sterk.tv/live/sterk.m3u8
 
-#EXTINF:-1,TNT Sports 1
-http://27.124.71.27/TNT_Sports_1/index.m3u8
-
-#EXTINF:-1,TNT Sports 2
-http://27.124.71.27/TNT_Sports_2/index.m3u8
-
-#EXTINF:-1,TNT Sports 3
-http://27.124.71.27/TNT_Sports_3/index.m3u8
-
-#EXTINF:-1,TNT Sports 4
-http://27.124.71.27/TNT_Sports_4/index.m3u8
-
-#EXTINF:-1,TRT KURD fᴴᴰ
-https://d1x82nydcxndze.cloudfront.net/live/index_1080p.m3u8
-
-#EXTINF:-1,TRT KURDi
+#EXTINF:-1,TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1,Waar Media ᴴᴰ
@@ -311,16 +283,14 @@ http://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmed
 http://live20.bozztv.com/giatv/giatv-wallatv88/wallatv88/chunks.m3u8
 
 #EXTINF:-1,ZAGROS TV
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8
 
 #EXTINF:-1,Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8
 
 #EXTINF:-1,Zarok ᴴᴰ
 http://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 
-#EXTINF:-1,ZNAR
-https://live20.bozztv.com/giatv/giatv-znarAnyTV/znarAnyTV/chunks.m3u8
 
 #EXTINF:-1,4K Travel ᴴᴰ
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
@@ -399,4 +369,19 @@ https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 
 #EXTINF:-1,Now Sports 3
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+
+#EXTINF:-1,TNT Sports 1
+http://27.124.71.27/TNT_Sports_1/index.m3u8
+
+#EXTINF:-1,TNT Sports 2
+http://27.124.71.27/TNT_Sports_2/index.m3u8
+
+#EXTINF:-1,TNT Sports 3
+http://27.124.71.27/TNT_Sports_3/index.m3u8
+
+#EXTINF:-1,TNT Sports 4
+http://27.124.71.27/TNT_Sports_4/index.m3u8
+
+
+
 
