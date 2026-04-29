@@ -33,26 +33,17 @@ http://109.71.252.138/Alwan2/index.mpd
 #EXTINF:-1,Amozhgary  ᴴᴰ
 http://app-live.org/live/3268334b/index.m3u8
 
-#EXTINF:-1,ARYEN TV
-https://stream.aryen.tv/live/tv/halabja88.m3u8
-
 #EXTINF:-1,Aryen ᴴᴰ
 http://stream.aryen.tv/live/tv/index.m3u8
+
+#EXTINF:-1,AVA ᴴᴰ
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
 #EXTINF:-1,AVA Family HD
 https://familyhls.avatv.live/hls/stream.m3u8
 
-#EXTINF:-1,AVA Media
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
-
 #EXTINF:-1,AVA Series HD
 https://avaserieshls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1,AVA SPORT HD
-https://halabja88.short.gy/avasport
-
-#EXTINF:-1,AVA ᴴᴰ
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
 #EXTINF:-1,AVAR
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
@@ -62,9 +53,6 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,BAHA Entertiment
 http://baskhd.ddns.net:40/live/baskhd/yusfstore.m3u8
-
-#EXTINF:-1,Bahra TV
-http://51.89.152.180:80/live/BahraHD/chunks.m3u8
 
 #EXTINF:-1,BAHRA TV HD
 http://51.89.152.180/live/BahraHD/chunks.m3u8
@@ -78,68 +66,12 @@ http://baskhd.ddns.net:40/live//barinmovieSHD/chunklist_w1422937477.m3u8
 #EXTINF:-1,Barin family HD
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
 
-#EXTINF:-1,BBC News ᴴᴰ
-https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
-
-#EXTINF:-1,Bein 1 4k
-http://afcocafot.com:8080/bn14k/index.m3u8
-
-#EXTINF:-1,Bein 1 HD 
-http://afcocafot.com:8080/bn1hd/index.m3u8
-
-#EXTINF:-1,beIN SPORT 1 ᴴᴰ
-http://sangartv.short.gy/beIN Sport1
-
-#EXTINF:-1,beIN SPORT 2 ᴴᴰ
-http://sangartv.short.gy/beIN Sport2
-
-#EXTINF:-1,beIN SPORT 3 ᴴᴰ
-http://sangartv.short.gy/beIN Sport3
-
-#EXTINF:-1,BEIN SPORTS 1
-http://h50.baseflow.online/live/918454578001/index.m3u8
-
-#EXTINF:-1,beIN SPORTS 1 HD
-https://halabja88.short.gy/beinsports1
-
-#EXTINF:-1,BEIN SPORTS 2
-http://h50.baseflow.online/live/69854211/index.m3u8
-
-#EXTINF:-1,beIN SPORTS 2 HD
-https://halabja88.short.gy/beinsports2
-
-#EXTINF:-1,BEIN SPORTS 3
-http://h50.baseflow.online/live/645587700/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 4
-http://h50.baseflow.online/live/9787488847/index.m3u8
-
-#EXTINF:-1,beIN SPORTS 4 HD
-https://halabja88.short.gy/beinsports4
-
-#EXTINF:-1,BEIN SPORTS 5 
-http://h50.baseflow.online/live/610303030/index.m3u8
-
-#EXTINF:-1,beIN SPORTS 5 HD
-https://halabja88.short.gy/beinsports5
-
-#EXTINF:-1,beIN SPORTS 6 HD
-https://halabja88.short.gy/beinsports6
-
-#EXTINF:-1,CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-
-#EXTINF:-1,CHANNEL 8
-https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
-
 #EXTINF:-1,Channel 8 FHD
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1,DARWAZA HD
 https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
-
-#EXTINF:-1,DAZN Combat (1080p)
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
 #EXTINF:-1,DUHOK TV
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
@@ -153,26 +85,8 @@ https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
 #EXTINF:-1,DW TV ᴴᴰ
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS 1
-http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/2518/index.m3u8
-
 #EXTINF:-1,Esra tv
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
-
-#EXTINF:-1,Euronews ᴴᴰ
-https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-
-#EXTINF:-1,Falcon SPORT 1 ᴴᴰ
-http://109.71.252.138/Falcon1/index.mpd
-
-#EXTINF:-1,Falcon SPORT 2 ᴴᴰ
-http://109.71.252.138/Falcon2/index.mpd
-
-#EXTINF:-1,FB TV
-http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-
-#EXTINF:-1,FIFA+ (720p)
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1,france 24 Arabic ᴴᴰ
 http://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
@@ -185,12 +99,10 @@ http://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
 
 #EXTINF:-1,Gawhar SPORT ᴴᴰ
 http://cdn.karwan.tv/gewher-sport/index.m3u8
+#https://cdn.karwan.tv:443/gewher-sport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Gewher Family
 https://cdn.karwan.tv:443/gewher-tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Gewher Sport
-https://cdn.karwan.tv:443/gewher-sport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Halabja  ᴴᴰ
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
@@ -198,7 +110,7 @@ http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 #EXTINF:-1,infinity ᴴᴰ
 http://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,jegrmedia Music
+#EXTINF:-1,Jegr Media Music
 http://jegrmediahussen.com:8088/JMedia/index.m3u8
 
 #EXTINF:-1,Jin TV
@@ -258,14 +170,9 @@ https://halabja88.short.gy/kurdmax
 #EXTINF:-1,KURDMAX کرمانجی
 https://stream.kurdmax.tv/app/kurdmax-kurmanji/llhls.m3u8
 
-#EXTINF:-1,KURDsat
-https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
-
-#EXTINF:-1,KURDsat news
-https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-avc1_2500000=10002,mp4a_128000=20000.m3u8
-
 #EXTINF:-1,Kurdsat News  ᴴᴰ
 http://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-avc1_2500000=10002,mp4a_128000=20000.m3u8
 
 #EXTINF:-1,Kurdsat TV ᴴᴰ
 http://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
@@ -279,35 +186,18 @@ http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
 #EXTINF:-1,MMN NEWS
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
 
-#EXTINF:-1,MMA-TV
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-
 #EXTINF:-1,Movie1
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 
 #EXTINF:-1,Naqshi Media
 http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 
-#EXTINF:-1,NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-
 #EXTINF:-1,Niroj
 https://iptv-link.short.gy/Niroj_HD.m3u8
 
-#EXTINF:-1,NHL
-https://nhl-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Now Sports 1
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
-
-#EXTINF:-1,Now Sports 2
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
-
-#EXTINF:-1,Now Sports 3
-https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
-
 #EXTINF:-1,NRT
-https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
+https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
+#https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
 
 #EXTINF:-1,NRT 2
 https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
@@ -315,14 +205,8 @@ https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
 #EXTINF:-1,NRT 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 
-#EXTINF:-1,NRT HD
-https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
-
 #EXTINF:-1,NRT SPORT FHD
 https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
-
-#EXTINF:-1,NRT SPORTS
-https://halabja88.short.gy/nrts
 
 #EXTINF:-1,NUCE ᴴᴰ
 http://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
@@ -440,3 +324,79 @@ https://live20.bozztv.com/giatv/giatv-znarAnyTV/znarAnyTV/chunks.m3u8
 
 #EXTINF:-1,4K Travel ᴴᴰ
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+
+#EXTINF:-1,BBC News ᴴᴰ
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+
+#EXTINF:-1,Bein 1 4k
+http://afcocafot.com:8080/bn14k/index.m3u8
+
+#EXTINF:-1,Bein 1 HD 
+http://afcocafot.com:8080/bn1hd/index.m3u8
+
+#EXTINF:-1,beIN SPORT 1 ᴴᴰ
+http://sangartv.short.gy/beIN Sport1
+
+#EXTINF:-1,beIN SPORT 2 ᴴᴰ
+http://sangartv.short.gy/beIN Sport2
+
+#EXTINF:-1,beIN SPORT 3 ᴴᴰ
+http://sangartv.short.gy/beIN Sport3
+
+#EXTINF:-1,BEIN SPORTS 1
+http://h50.baseflow.online/live/918454578001/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 2
+http://h50.baseflow.online/live/69854211/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 3
+http://h50.baseflow.online/live/645587700/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 4
+http://h50.baseflow.online/live/9787488847/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 5 
+http://h50.baseflow.online/live/610303030/index.m3u8
+
+#EXTINF:-1,CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
+#EXTINF:-1,DAZN Combat (1080p)
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
+#EXTINF:-1,ELEVEN SPORTS 1
+http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/2518/index.m3u8
+
+#EXTINF:-1,Euronews ᴴᴰ
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+
+#EXTINF:-1,Falcon SPORT 1 ᴴᴰ
+http://109.71.252.138/Falcon1/index.mpd
+
+#EXTINF:-1,Falcon SPORT 2 ᴴᴰ
+http://109.71.252.138/Falcon2/index.mpd
+
+#EXTINF:-1,FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTINF:-1,FIFA+ (720p)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1,MMA-TV
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+
+#EXTINF:-1,NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Now Sports 1
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1,Now Sports 2
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1,Now Sports 3
+https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+
