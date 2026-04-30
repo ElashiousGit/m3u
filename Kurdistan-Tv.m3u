@@ -75,6 +75,9 @@ https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
 #EXTINF:-1,Denge Zelal
 https://dengetv.ozelip.com:3143/live/dengelive.m3u8
 
+#EXTINF:-1,Derin
+http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
+
 #EXTINF:-1,DuhokTV
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
 
@@ -90,11 +93,15 @@ https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1,Esra tv
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 
+#EXTINF:-1,Euro Kurd
+http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
+
 #EXTINF:-1,france 24 Arabic ᴴᴰ
 http://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1,Gali Kurdistan
 https://live.host247.net/gk/gksat/chunklist_w1358946070.m3u8
+# https://live.host247.net/gk/gksat/chunklist_w1578718171.m3u8
 
 #EXTINF:-1,Garyan ᴴᴰ
 http://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
@@ -185,8 +192,14 @@ http://136.243.155.55:8088/Lawanhd/index.m3u8
 #EXTINF:-1,Mix Kurdi
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
 
-#EXTINF:-1,MMN NEWS
+#EXTINF:-1,MMN Movies
+http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
+
+#EXTINF:-1,MMN News
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+
+#EXTINF:-1,MMN Sport
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 
 #EXTINF:-1,Movie1
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
@@ -282,6 +295,7 @@ https://zindi.sterk.tv/live/sterk.m3u8
 
 #EXTINF:-1,TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+# https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1,Waar Media ᴴᴰ
 http://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
@@ -291,8 +305,6 @@ http://live20.bozztv.com/giatv/giatv-wallatv88/wallatv88/chunks.m3u8
 
 #EXTINF:-1,Welat ᴴᴰ
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
-
-#EXTINF:-1,ZAGROS TV
 
 #EXTINF:-1,Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
@@ -462,3 +474,7 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/771
 
 #EXTINF:-1,USA Network 
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
+
+#EXTINF:-1,Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
