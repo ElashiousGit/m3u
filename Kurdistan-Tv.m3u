@@ -316,8 +316,11 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1,Zarok ᴴᴰ
 http://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 
-#EXTINF:-1,4K Travel ᴴᴰ
+#EXTINF:-1,4K Travel
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+
+#EXTINF:-1, 4K TravelXP
+URL: http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/14026/index.m3u8
 
 #EXTINF:-1,BBC News ᴴᴰ
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
@@ -370,17 +373,23 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1,DAZN Combat (1080p)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS 1
+#EXTINF:-1,Eleven Sports 1 4K PL
+URL: http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/20068/index.m3u8
+
+#EXTINF:-1,Eleven Sports 1 HD
 http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/2518/index.m3u8
 
 #EXTINF:-1,ESPN
-http://41.205.93.154/ESPN/index.m3u8
+http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/19156/index.m3u8
+# http://41.205.93.154/ESPN/index.m3u8
 
 #EXTINF:-1,ESPN2
 http://41.223.30.230/ESPN2/index.m3u8
+# http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/19155/index.m3u8
 
 #EXTINF:-1,ESPN NEWS
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2312
+# http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/19154/index.m3u8
 
 #EXTINF:-1,ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
@@ -402,6 +411,7 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1611
 
 #EXTINF:-1,FS1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
+# http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/7322/index.m3u8
 
 #EXTINF:-1,FS2
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
@@ -448,6 +458,12 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4723
 #EXTINF:-1,SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 
+#EXTINF:-1,Sky Sport F1
+http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/7342/index.m3u8
+
+#EXTINF:-1,Sky Sport Premier League
+http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/7335/index.m3u8
+
 #EXTINF:-1,TBS USA
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
@@ -468,6 +484,9 @@ http://27.124.71.27/TNT_Sports_4/index.m3u8
 
 #EXTINF:-1,Tru TV USA
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,TRT 4K
+URL: http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/4001/index.m3u8
 
 #EXTINF:-1,TSN1
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/770
