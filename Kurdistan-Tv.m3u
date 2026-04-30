@@ -25,12 +25,6 @@ http://avrstream.com:1935/live/ala-hd/playlist.m3u8
 #EXTINF:-1,Al Arabiya Hadath HD
 http://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
 
-#EXTINF:-1,Alwan SPORT 1 ⁴ᵏ
-http://109.71.252.138/Alwan1/index.mpd
-
-#EXTINF:-1,Alwan SPORT 2 ⁴ᵏ
-http://109.71.252.138/Alwan2/index.mpd
-
 #EXTINF:-1,Amozhgary  ᴴᴰ
 http://app-live.org/live/3268334b/index.m3u8
 
@@ -80,9 +74,6 @@ https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
 
 #EXTINF:-1,Denge Zelal
 https://dengetv.ozelip.com:3143/live/dengelive.m3u8
-
-#EXTINF:-1,DUHOK TV
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
 #EXTINF:-1,DuhokTV
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
@@ -310,7 +301,6 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1,Zarok ᴴᴰ
 http://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 
-
 #EXTINF:-1,4K Travel ᴴᴰ
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
@@ -347,8 +337,20 @@ http://h50.baseflow.online/live/9787488847/index.m3u8
 #EXTINF:-1,BEIN SPORTS 5 
 http://h50.baseflow.online/live/610303030/index.m3u8
 
+#EXTINF:-1,Big Ten Network BTN
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+
+#EXTINF:-1,CBS Sports Network
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267357
+
 #EXTINF:-1,CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
+#EXTINF:-1,CNBC
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2295
+
+#EXTINF:-1,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1,DAZN Combat (1080p)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
@@ -356,14 +358,20 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 #EXTINF:-1,ELEVEN SPORTS 1
 http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/2518/index.m3u8
 
+#EXTINF:-1,ESPN
+http://41.205.93.154/ESPN/index.m3u8
+
+#EXTINF:-1,ESPN2
+http://41.223.30.230/ESPN2/index.m3u8
+
+#EXTINF:-1,ESPN NEWS
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2312
+
+#EXTINF:-1,ESPN U
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
 #EXTINF:-1,Euronews ᴴᴰ
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-
-#EXTINF:-1,Falcon SPORT 1 ᴴᴰ
-http://109.71.252.138/Falcon1/index.mpd
-
-#EXTINF:-1,Falcon SPORT 2 ᴴᴰ
-http://109.71.252.138/Falcon2/index.mpd
 
 #EXTINF:-1,FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
@@ -371,11 +379,38 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1,FIFA+ (720p)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
+#EXTINF:-1,Fox
+http://stream.cammonitorplus.net/1772/index.m3u8
+
+#EXTINF:-1,Fox News
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1611
+
+#EXTINF:-1,FS1
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+
+#EXTINF:-1,FS2
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
+
+#EXTINF:-1,MLB
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2342
+
 #EXTINF:-1,MMA-TV
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
+#EXTINF:-1,NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+
 #EXTINF:-1,NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,NESN
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+
+#EXTINF:-1,NFL Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+
+#EXTINF:-1,NFL REDZONE
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2369
 
 #EXTINF:-1,NHL
 https://nhl-firetv.amagi.tv/playlist.m3u8
@@ -389,6 +424,21 @@ https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 #EXTINF:-1,Now Sports 3
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
+#EXTINF:-1,Premier Sports 1
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1097
+
+#EXTINF:-1,Premier Sports 2
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4723
+
+#EXTINF:-1,SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+
+#EXTINF:-1,TBS USA
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,TNT USA
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1,TNT Sports 1
 http://27.124.71.27/TNT_Sports_1/index.m3u8
 
@@ -401,3 +451,14 @@ http://27.124.71.27/TNT_Sports_3/index.m3u8
 #EXTINF:-1,TNT Sports 4
 http://27.124.71.27/TNT_Sports_4/index.m3u8
 
+#EXTINF:-1,Tru TV USA
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,TSN1
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/770
+
+#EXTINF:-1,TSN2
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/771
+
+#EXTINF:-1,USA Network 
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
