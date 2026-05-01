@@ -385,6 +385,7 @@ http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/2518/index.m3u8
 #EXTINF:-1,ESPN
 http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/19156/index.m3u8
 # http://41.205.93.154/ESPN/index.m3u8
+# http://watch.nocatchentertainment.com:83/8034129969/5620987431/787949
 
 #EXTINF:-1,ESPN2
 http://41.223.30.230/ESPN2/index.m3u8
@@ -461,6 +462,9 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1097
 
 #EXTINF:-1,Premier Sports 2
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4723
+
+#EXTINF:-1,Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1,SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
