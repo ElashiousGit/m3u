@@ -471,10 +471,23 @@ http://matrix4k.top:80/play/live.php?mac=00:1A:79:4b:32:6a&stream=1290248&extens
 #EXTINF:-1,Sky Sports F1 4K
 http://matrix4k.top:80/play/live.php?mac=00:1A:79:4b:32:6a&stream=1290247&extension=ts&play_token=4g8EtjKgDJ
 
-#EXTINF:-1,Sky Sports Main Event 4K
+#EXTINF:-1,Sky Sports 1 4K
+http://matrix4k.top:80/play/live.php?mac=00:1A:79:4b:32:6a&stream=1290246&extension=ts&play_token=qOwk5tA4pX
 
-#EXTINF:-1,Sky Sport F1
+#EXTINF:-1,Sky Sports Action
+http://matrix4k.top:80/play/live.php?mac=00:1A:79:4b:32:6a&stream=1290203&extension=ts&play_token=BkpmfNm3ev
+
+#EXTINF:-1,Sky Sports F1
 http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/7342/index.m3u8
+
+#EXTINF:-1,Sky Sports Football
+http://matrix4k.top:80/play/live.php?mac=00:1A:79:4b:32:6a&stream=1290205&extension=ts&play_token=LOB6kB6Os9
+
+#EXTINF:-1,Sky Sports Mix
+http://matrix4k.top:80/play/live.php?mac=00:1A:79:4b:32:6a&stream=1290204&extension=ts&play_token=fyzJLjuNKq
+
+#EXTINF:-1,Sky Sports News
+http://matrix4k.top:80/play/live.php?mac=00:1A:79:4b:32:6a&stream=1290209&extension=ts&play_token=CkzHchgaEM
 
 #EXTINF:-1,Sky Sport Premier League
 http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/7335/index.m3u8
