@@ -373,14 +373,26 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2295
 #EXTINF:-1,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1,DAZN 1
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2531/index.m3u8
+
+#EXTINF:-1,DAZN 2
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2532/index.m3u8
+
+#EXTINF:-1,DAZN 5
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2535/index.m3u8
+
 #EXTINF:-1,DAZN Combat (1080p)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
 #EXTINF:-1,Eleven Sports 1 4K PL
 URL: http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/20068/index.m3u8
 
-#EXTINF:-1,Eleven Sports 1 HD
+#EXTINF:-1,Eleven Sports 1
 http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/2518/index.m3u8
+
+#EXTINF:-1,Eleven Sports 3
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2517/index.m3u8
 
 #EXTINF:-1,ESPN
 http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/19156/index.m3u8
@@ -460,6 +472,7 @@ https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 #EXTINF:-1,Premier Sports 1
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1097
 # http://zk6dnu9q.rostelekom.xyz/iptv/P33CTX4Y6P7UBS/2160/index.m3u8
+# http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2160/index.m3u8
 
 #EXTINF:-1,Premier Sports 2
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4723
@@ -532,6 +545,9 @@ http://27.124.71.27/TNT_Sports_3/index.m3u8
 
 #EXTINF:-1,TNT Sports 4
 http://27.124.71.27/TNT_Sports_4/index.m3u8
+
+#EXTINF:-1,TRT Sports
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2145/index.m3u8
 
 #EXTINF:-1,Tru TV USA
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
