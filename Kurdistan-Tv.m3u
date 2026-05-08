@@ -325,6 +325,9 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/titl
 #EXTINF:-1, 4K TravelXP
 URL: http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/14026/index.m3u8
 
+#EXTINF:-1, BARCA
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
 #EXTINF:-1,BBC News ᴴᴰ
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 
@@ -442,6 +445,9 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2342
 #EXTINF:-1,MMA-TV
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
+#EXTINF:-1,Motor Canal
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
 #EXTINF:-1,NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 
@@ -479,6 +485,7 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4723
 
 #EXTINF:-1,Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+# https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1,SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
@@ -560,6 +567,9 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/770
 
 #EXTINF:-1,TSN2
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/771
+
+#EXTINF:-1,UFC
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1,USA Network 
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
