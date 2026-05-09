@@ -268,12 +268,10 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1,RT English ᴴᴰ
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
-#EXTINF:-1,Rudaw fᴴᴰ
-https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
-# https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-
-#EXTINF:-1,Rudaw ᴴᴰ
-https://live.rudaw.net/hls/rudaw-tv/stream_720p.m3u8
+#EXTINF:-1,Rudaw
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+# https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
+# https://live.rudaw.net/hls/rudaw-tv/stream_720p.m3u8
 
 #EXTINF:-1,Shams tv
 https://stream.shams.tv/hls/0/stream.m3u8
