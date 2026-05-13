@@ -82,7 +82,10 @@ http://sonymax.org:8080/live/9bgtjiBRz5/Voj3asApSn/511363.ts
 #EXTINF:-1,Eman TV
 https://avr.host247.net/live/emantv/playlist.m3u8
 
-#EXTINF:-1,Esra tv
+#EXTINF:-1,Esta
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:1C:0B:06&stream=1859015&extension=ts&play_token=mNjgdu80Gq
+
+#EXTINF:-1,Esra
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 
 #EXTINF:-1,Euro Kurd
@@ -170,6 +173,9 @@ https://stream.kurdmax.tv/app/kurdmax-kurmanji/llhls.m3u8
 http://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 # https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-avc1_2500000=10002,mp4a_128000=20000.m3u8
 
+#EXTINF:-1,Kurdmax Music
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:1C:0B:06&stream=1858993&extension=ts&play_token=sRhz0kTCCi
+
 #EXTINF:-1,Kurdsat TV ᴴᴰ
 http://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 
@@ -237,6 +243,12 @@ http://217.76.62.187/hls/rahandtv.m3u8
 
 #EXTINF:-1,Ranya City ᴴᴰ
 https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
+
+#EXTINF:-1,Reng Family
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:1C:0B:06&stream=1859030&extension=ts&play_token=b3IC1Nt819
+
+#EXTINF:-1,Reng Sport
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:1C:0B:06&stream=1858984&extension=ts&play_token=jmFz5WX7T1
 
 #EXTINF:-1,Rojava 
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
@@ -307,6 +319,9 @@ http://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 
 #EXTINF:-1,Zaxo
 http://sonymax.org:8080/live/9bgtjiBRz5/Voj3asApSn/511355.ts
+
+#EXTINF:-1,Zaxo Sport
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:1C:0B:06&stream=987926&extension=ts&play_token=HaHACWkwSf
 
 #EXTINF:-1,4K Travel
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
