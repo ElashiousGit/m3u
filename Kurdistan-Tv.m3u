@@ -127,6 +127,9 @@ https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 #EXTINF:-1,K24 News
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 
+#EXTINF:-1,Khak
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+
 #EXTINF:-1,Kirkuk  ᴴᴰ
 http://live.kirkuklive.live/hls/stream/index.m3u8
 
@@ -175,6 +178,9 @@ http://136.243.155.55:8088/Lawanhd/index.m3u8
 
 #EXTINF:-1,Mix Kurdi
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+
+#EXTINF:-1,MMN Documentary
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 
 #EXTINF:-1,MMN Movies
 http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
@@ -378,8 +384,8 @@ http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/2518/index.m3u8
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2517/index.m3u8
 
 #EXTINF:-1,ESPN
-# http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/19156/index.m3u8
 http://41.205.93.154/ESPN/index.m3u8
+# http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/19156/index.m3u8
 # http://watch.nocatchentertainment.com:83/8034129969/5620987431/787949
 
 #EXTINF:-1,ESPN2
