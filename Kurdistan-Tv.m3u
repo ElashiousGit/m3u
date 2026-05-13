@@ -33,7 +33,7 @@ http://stream.aryen.tv/live/tv/index.m3u8
 
 
 
-#EXTINF:-1,AVA test,
+#EXTINF:-1,AVA test
 tvg-id="ava.news" tvg-name="AVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/AVAMedialogo.jpg"
 https://ava1.store/upload/images/1080.m3u8
 
