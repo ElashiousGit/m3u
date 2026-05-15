@@ -182,6 +182,9 @@ http://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1,LAWAN HD
 http://136.243.155.55:8088/Lawanhd/index.m3u8
 
+#EXTINF:-1,Med Music
+https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC.m3u8
+
 #EXTINF:-1,Mix Kurdi
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
 
@@ -243,6 +246,9 @@ http://217.76.62.187/hls/rahandtv.m3u8
 
 #EXTINF:-1,Ranya City ᴴᴰ
 https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
+
+#EXTINF:-1,Rehber
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Reng Family
 http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:1C:0B:06&stream=1859030&extension=ts&play_token=b3IC1Nt819
