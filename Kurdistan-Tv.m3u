@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1,Rudaw
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+# http://eaglevnew.top/live/890608893636/957330157995/768389.ts
+# https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
+# https://live.rudaw.net/hls/rudaw-tv/stream_720p.m3u8
+
+#EXTINF:-1,Waar TV
+http://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+
+#EXTINF:-1,K24 News
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+
+#EXTINF:-1,Kurdsat
+http://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+# https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-avc1_2500000=10002,mp4a_128000=20000.m3u8
+
+#EXTINF:-1,KURDISTAN TV
+https://5a3ed7a72ed4b.streamlock.net:443/live/SMIL:myStream.smil/HawezHD.m3u8
+# https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1790905875_b1700000_sleng_t64MTA4MHA=.m3u8
+# https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w735693271_b1700000_sleng_t64MTA4MHA=.m3u8
+# https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w650716400_b1700000_sleng_t64MTA4MHA=.m3u8
+
+
 #EXTINF:-1,4Kurd ᴴᴰ
 https://4kuhls.persiana.live/hls/stream.m3u8
 
