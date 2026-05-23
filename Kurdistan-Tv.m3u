@@ -295,6 +295,9 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1,RT English ᴴᴰ
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
+#EXTINF:-1,Ruha TV
+https://streams.uzunmuhalefet.com/stream/6ba73eec-740e-474a-bc0f-c5f527c4c627.m3u8
+
 #EXTINF:-1,Rudaw
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 # http://eaglevnew.top/live/890608893636/957330157995/768389.ts
