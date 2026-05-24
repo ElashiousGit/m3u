@@ -382,44 +382,53 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1,BBC News ᴴᴰ
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 
-#EXTINF:-1,Bein 1 4k
-http://afcocafot.com:8080/bn14k/index.m3u8
+#EXTINF:-1,Bein Sport USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
-#EXTINF:-1,Bein 1 HD 
-http://afcocafot.com:8080/bn1hd/index.m3u8
+#EXTINF:-1,Bein Sport 1
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
 
-#EXTINF:-1,beIN SPORT 1 ᴴᴰ
-http://sangartv.short.gy/beIN Sport1
+#EXTINF:-1,Bein Sport 2
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8
 
-#EXTINF:-1,beIN SPORT 2 ᴴᴰ
-http://sangartv.short.gy/beIN Sport2
+#EXTINF:-1,Bein Sport 3
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8
 
-#EXTINF:-1,beIN SPORT 3 ᴴᴰ
-http://sangartv.short.gy/beIN Sport3
+#EXTINF:-1,Bein Sport 4
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8
 
-#EXTINF:-1,BEIN SPORTS 1
-http://h50.baseflow.online/live/918454578001/index.m3u8
+#EXTINF:-1,Bein Sport 5
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8
 
-#EXTINF:-1,BEIN SPORTS 2
-http://h50.baseflow.online/live/69854211/index.m3u8
+#EXTINF:-1,Bein Sport 6
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8
 
-#EXTINF:-1,BEIN SPORTS 3
-http://h50.baseflow.online/live/645587700/index.m3u8
+#EXTINF:-1,Bein Sport 7
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8
 
-#EXTINF:-1,BEIN SPORTS 4
-http://h50.baseflow.online/live/9787488847/index.m3u8
+#EXTINF:-1,Bein Sport 8
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein8.m3u8
 
-#EXTINF:-1,BEIN SPORTS 5 
-http://h50.baseflow.online/live/610303030/index.m3u8
+#EXTINF:-1,Bein Sport 9
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein9.m3u8
 
 #EXTINF:-1,Big Ten Network BTN
 http://23.237.104.106:8080/USA_BTN/index.m3u8
+
+#EXTINF:-1, Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1,CBS Sports Network
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267357
 
 #EXTINF:-1,CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
+#EXTINF:-1,Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
+#EXTINF:-1,Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
 #EXTINF:-1,CNBC
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2295
@@ -490,6 +499,24 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
 #EXTINF:-1,FS Detroit
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/6463
 
+#EXTINF:-1,FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+
+#EXTINF:-1,Hallmark
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+
+#EXTINF:-1,HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+#EXTINF:-1,HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+
+#EXTINF:-1,HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
+#EXTINF:-1,HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+
 #EXTINF:-1,MLB
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2342
 
@@ -498,6 +525,12 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
 #EXTINF:-1,Motor Canal
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1,MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+
+#EXTINF:-1,MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 
 #EXTINF:-1,NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
@@ -561,6 +594,12 @@ http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/7335/index.m3u8
 
 #EXTINF:-1,Sportsnet
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3377
+
+#EXTINF:-1,Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+
+#EXTINF:-1,Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1,TBS USA
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
