@@ -82,6 +82,21 @@ http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 #EXTINF:-1,Batifa
 https://live20.bozztv.com/giatv/giatv-batifa/BATIFA-TV/playlist.m3u8
 
+#EXTINF:-1, BARIN FAMILY 
+http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8 
+
+#EXTINF:-1, BARIN MOVIES
+https://cdn.karwan.tv/barin-movies/index.m3u8
+
+#EXTINF:-1, BNAR ACTION HD
+https://cdn.karwan.tv/bnar-action/index.m3u8
+
+#EXTINF:-1, BNAR FAMILY HD
+https://cdn.karwan.tv/bnar-family/index.m3u8
+
+#EXTINF:-1, BNAR MOVIES HD
+https://cdn.karwan.tv/bnar-movies/index.m3u8
+
 #EXTINF:-1,Channel 8 FHD
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 # https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
