@@ -165,7 +165,7 @@ https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playli
 #EXTINF:-1,Kanal 30
 https://azerbaycan.biz-az.workers.dev/kanal30.m3u8
 
-#EXTINF:-1,K24 HD
+#EXTINF:-1,K24
 https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 
 #EXTINF:-1,K24 News
@@ -174,16 +174,16 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1,Khak
 http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
 
-#EXTINF:-1,Kirkuk  ᴴᴰ
+#EXTINF:-1,Kirkuk
 http://live.kirkuklive.live/hls/stream/index.m3u8
 
-#EXTINF:-1,Komala ᴴᴰ
+#EXTINF:-1,Komala
 http://komhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1,Kurd channel ᴴᴰ
+#EXTINF:-1,Kurd Channel
 http://kurdchhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1,KURD7 HD
+#EXTINF:-1,KURD7
 http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
 
 #EXTINF:-1,KURDISTAN TV
@@ -376,6 +376,45 @@ http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:1C:0B:06&stream=987926&extensi
 #EXTINF:-1,4K Travel
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
+#EXTINF:-1, Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1, Alkass 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+
+#EXTINF:-1, Alkass 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+
+#EXTINF:-1, Alkass 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+
+#EXTINF:-1, Alkass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+
+#EXTINF:-1, Alkass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
+#EXTINF:-1, Alwan 3
+https://stream.camcloud.stream/stream/456de69d002b/playlist.m3u8
+
+#EXTINF:-1, Alwan 4
+https://stream.camcloud.stream/stream/fd1979023964/playlist.m3u8
+
+#EXTINF:-1, Alwan 5
+https://stream.camcloud.stream/stream/6478d42a682b/playlist.m3u8
+
+#EXTINF:-1, Alwan 6
+https://stream.camcloud.stream/stream/4daee3f6e9e7/playlist.m3u8
+
+#EXTINF:-1, Alwan 7
+https://stream.camcloud.stream/stream/c28b01f8c96e/playlist.m3u8
+
+#EXTINF:-1, Alwan 8
+https://stream.camcloud.stream/stream/c28b01f8c96e/playlist.m3u8
+
+#EXTINF:-1, Alwan 9
+https://stream.camcloud.stream/stream/bb7d90bf39d8/playlist.m3u8
+
 #EXTINF:-1, BARCA
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
@@ -486,12 +525,16 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 http://stream.cammonitorplus.net/1772/index.m3u8
 # https://aegis-cloudfront-1.tubi.video/5689247c-331e-4444-92e1-f7cc21377360/index.m3u8
 
+#EXTINF:-1,Fox East
+http://84.17.50.102/fox/index.m3u8
+
 #EXTINF:-1,Fox News
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1611
+http://41.205.93.154/FOX-NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,FS1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
 # http://8qwns0zz.ukminlt.org/iptv/BBQHMBCWXXBAW8FPU227VCBW/7322/index.m3u8
+# http://rezofoot.tv/Fox_Sports_1/index.m3u8
 
 #EXTINF:-1,FS2
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
