@@ -461,6 +461,12 @@ https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein9.m3u8
 #EXTINF:-1,Big Ten Network BTN
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 
+#EXTINF:-1,Blue Sport 1
+https://bluesport.fun/live/blue_sport_1/index.m3u8
+
+#EXTINF:-1,Blue Sport 2
+https://bluesport.fun/live/blue_sport_2/index.m3u8
+
 #EXTINF:-1, Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
@@ -522,20 +528,14 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1,Euronews ᴴᴰ
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 
-#EXTINF:-1,Falcon Eye 1
-https://tv.kurdtv.live/t/c3yPdG1poc/stream/587.m3u8
-
-#EXTINF:-1,Falcon Eye 2
-https://tv.kurdtv.live/t/c3yPdG1poc/stream/588.m3u8
-
-#EXTINF:-1,Falcon Eye 3
-https://tv.kurdtv.live/t/c3yPdG1poc/stream/589.m3u8
-
 #EXTINF:-1,FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
 #EXTINF:-1,FIFA+ (720p)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1,Fox
+http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1,Fox 2 Detroit
 http://stream.cammonitorplus.net/1772/index.m3u8
@@ -575,6 +575,9 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
 #EXTINF:-1,HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
+
+#EXTINF:-1,Koora Sports
+https://live.kooran8.cfd/livea1/index.m3u8
 
 #EXTINF:-1,MLB
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2342
