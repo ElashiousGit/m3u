@@ -401,26 +401,23 @@ https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 #EXTINF:-1, Alkass 6
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 
-#EXTINF:-1, Alwan 3
-https://stream.camcloud.stream/stream/456de69d002b/playlist.m3u8
+#EXTINF:-1, Alwan Sport 1
+https://stream.kurdtv.live/alwan-sport/index.m3u8
 
-#EXTINF:-1, Alwan 4
-https://stream.camcloud.stream/stream/fd1979023964/playlist.m3u8
+#EXTINF:-1, Alwan Sport 2
+https://stream.kurdtv.live/alwan-sport-2/index.m3u8
 
-#EXTINF:-1, Alwan 5
-https://stream.camcloud.stream/stream/6478d42a682b/playlist.m3u8
+#EXTINF:-1, Alwan Sport 3
+https://stream.kurdtv.live/alwan-sport-3/index.m3u8
 
-#EXTINF:-1, Alwan 6
-https://stream.camcloud.stream/stream/4daee3f6e9e7/playlist.m3u8
+#EXTINF:-1, Alwan Sport 4
+https://stream.kurdtv.live/alwan-sport-4/index.m3u8
 
-#EXTINF:-1, Alwan 7
-https://stream.camcloud.stream/stream/c28b01f8c96e/playlist.m3u8
+#EXTINF:-1, Alwan Sport 5
+https://stream.kurdtv.live/alwan-sport-5/index.m3u8
 
-#EXTINF:-1, Alwan 8
-https://stream.camcloud.stream/stream/c28b01f8c96e/playlist.m3u8
-
-#EXTINF:-1, Alwan 9
-https://stream.camcloud.stream/stream/bb7d90bf39d8/playlist.m3u8
+#EXTINF:-1, Alwan Sport 6
+https://stream.kurdtv.live/alwan-sport-6/index.m3u8
 
 #EXTINF:-1, BARCA
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
@@ -431,34 +428,13 @@ https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1,Bein Sport USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
-#EXTINF:-1,Bein Sport 1
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
+#EXTINF:-1, BEIN MAX 1
+https://stream.kurdtv.live/bein-max/index.m3u8
 
-#EXTINF:-1,Bein Sport 2
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8
+#EXTINF:-1, BEIN MAX 2
+https://stream.kurdtv.live/bein-max-2/index.m3u8
 
-#EXTINF:-1,Bein Sport 3
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8
-
-#EXTINF:-1,Bein Sport 4
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8
-
-#EXTINF:-1,Bein Sport 5
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8
-
-#EXTINF:-1,Bein Sport 6
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8
-
-#EXTINF:-1,Bein Sport 7
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8
-
-#EXTINF:-1,Bein Sport 8
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein8.m3u8
-
-#EXTINF:-1,Bein Sport 9
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein9.m3u8
-
-#EXTINF:-1,Big Ten Network BTN
+#EXTINF:-1,Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 
 #EXTINF:-1,Blue Sport 1
