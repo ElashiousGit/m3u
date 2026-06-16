@@ -552,6 +552,11 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1,HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 
+#EXTINF:-1,IRIB
+https://live-aburayhan1107.telewebion.ir/ek/faratar/live/108050p/index.m3u8
+#https://live-aburayhan1107.telewebion.ir/ek/faratar/live/720p/index.m3u8
+#https://live-aburayhan1107.telewebion.ir/ek/faratar/live/360p/index.m3u8
+
 #EXTINF:-1,Koora Sports
 https://live.kooran8.cfd/livea1/index.m3u8
 
