@@ -761,27 +761,27 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="World Cup",1
 https://line.maricia.website/yooorp2.m3u8
 
-##EXTINF:-1 group-title="World Cup",2
+#EXTINF:-1 group-title="World Cup",2
 https://line.maricia.website/yooorp2_720/index.m3u8
 
-##EXTINF:-1 group-title="World Cup",3
+#EXTINF:-1 group-title="World Cup",3
 https://as.roomtu.store/rook1.m3u8
 
-##EXTINF:-1 group-title="World Cup",4
+#EXTINF:-1 group-title="World Cup",4
 https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_720p/chunklist_DVR.m3u8
 
-##EXTINF:-1 group-title="World Cup",5
+#EXTINF:-1 group-title="World Cup",5
 https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8
 
-##EXTINF:-1 group-title="World Cup",6
+#EXTINF:-1 group-title="World Cup",6
 https://s3.us-east-1.amazonaws.com/cdnb102/hls/0/stream.m3u8
 
-##EXTINF:-1 group-title="World Cup",7
+#EXTINF:-1 group-title="World Cup",7
 https://s3.us-east-1.amazonaws.com/cdnb102/hls/0/stream_1280x720_3300k.m3u8
 
-##EXTINF:-1 group-title="World Cup",8
+#EXTINF:-1 group-title="World Cup",8
 https://26cup.s3.us-east-2.amazonaws.com/max3/master.m3u8
 
-##EXTINF:-1 group-title="World Cup",9
+#EXTINF:-1 group-title="World Cup",9
 https://26cup.s3.us-east-2.amazonaws.com/max3/max3_720p/index.m3u8
 
