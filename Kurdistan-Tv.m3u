@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Biner Zaxo
+https://lbgo.bozztv.com/ssh101/live/biner-zaxo/playlist.m3u8
+
 #EXTINF:-1,Rudaw
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 # http://eaglevnew.top/live/890608893636/957330157995/768389.ts
