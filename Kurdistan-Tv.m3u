@@ -12,6 +12,9 @@ https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1,Waar TV
 http://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 
+#EXTINF:-1,Oremar
+https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8
+
 #EXTINF:-1,K24 News
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 
