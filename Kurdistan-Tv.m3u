@@ -28,6 +28,8 @@ https://5a3ed7a72ed4b.streamlock.net:443/live/SMIL:myStream.smil/HawezHD.m3u8
 # https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w735693271_b1700000_sleng_t64MTA4MHA=.m3u8
 # https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w650716400_b1700000_sleng_t64MTA4MHA=.m3u8
 
+#EXTINF:-1,Dohuk Movies
+https://lbgo.bozztv.com/ssh101/live/Duhok_Moves/chunks.m3u8?lb_backend_hint=6
 
 #EXTINF:-1,4Kurd ᴴᴰ
 https://4kuhls.persiana.live/hls/stream.m3u8
