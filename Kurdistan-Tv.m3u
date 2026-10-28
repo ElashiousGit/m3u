@@ -299,6 +299,8 @@ http://217.76.62.187/hls/rahandtv.m3u8
 
 #EXTINF:-1,Ranya City
 https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
+#https://ranyatv.avrstream.com/RanyaTV/playlist.m3u8
+
 
 #EXTINF:-1,Red
 http://avrstream.com:1935/live/REDTV/playlist.m3u8
