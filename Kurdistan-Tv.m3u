@@ -354,6 +354,9 @@ https://stream.skynewsarabia.com:443/hls/sna_720.m3u8
 #EXTINF:-1,SOZ ᴴᴰ
 http://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 
+#EXTINF:-1,Speda
+http://31.43.191.125:8080/live/restream/restream/25208.ts
+
 #EXTINF:-1,SPI TV
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
 
